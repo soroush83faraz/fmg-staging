@@ -1,0 +1,4 @@
+:HL["/fmg-staging/_next/static/css/c970b9a7c6dcfae5.css","style"]
+:HL["/fmg-staging/brand/logo-dark.webp","image"]
+:HL["/fmg-staging/media/products/stx40-front.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"(public)","param":null,"prefetchHints":0,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%DA%A9%D8%A7%D8%A8%D9%84-%D9%87%D8%A7%DB%8C-%D9%81%D8%B4%D8%A7%D8%B1-%D9%82%D9%88%DB%8C","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"SLPPf44m0fnYwS-R2nG1T"}
