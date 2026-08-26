@@ -1,0 +1,4 @@
+:HL["/fmg-staging/_next/static/css/0799a726c5307477.css","style"]
+:HL["/fmg-staging/brand/logo-dark.webp","image"]
+:HL["/fmg-staging/media/products/protrac-set.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"(public)","param":null,"prefetchHints":0,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hv-cable-fault-detection","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"db6gMFZg2wiVOA8xL8Dqa"}

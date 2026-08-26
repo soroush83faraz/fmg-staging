@@ -1,0 +1,3 @@
+:HL["/fmg-staging/_next/static/css/0799a726c5307477.css","style"]
+:HL["/fmg-staging/brand/logo-dark.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"(public)","param":null,"prefetchHints":0,"slots":{"children":{"name":"product","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"thermographic-camera-ti175","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"db6gMFZg2wiVOA8xL8Dqa"}
