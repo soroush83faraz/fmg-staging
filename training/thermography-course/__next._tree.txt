@@ -1,0 +1,7 @@
+:HL["/fmg-staging/_next/static/css/02bf4e0fd3148dbd.css","style"]
+:HL["/fmg-staging/brand/logo-dark.webp","image"]
+:HL["/fmg-staging/media/case_studies/satir-thermography-oil-gas-satir-i640-1.webp","image",{"fetchPriority":"high"}]
+:HL["/fmg-staging/home/banner-thermography.webp","image",{"fetchPriority":"high"}]
+:HL["/fmg-staging/media/case_studies/satir-dx300-thermography-satir-dx300-2.webp","image"]
+:HL["/fmg-staging/media/case_studies/hikmicro-acoustic-pd-substations-acoustic-2.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"(public)","param":null,"prefetchHints":0,"slots":{"children":{"name":"training","param":null,"prefetchHints":0,"slots":{"children":{"name":"thermography-course","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"1geCkFA0n1zTkGTjdOpOy"}
